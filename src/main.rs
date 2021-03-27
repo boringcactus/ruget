@@ -7,13 +7,13 @@ use seahorse::{color, Action, App, Flag, FlagType};
 
 use lib::download_manager::DownloadManager;
 
-const NAME: &str = "
+const NAME: &str = r"
                        _   
                       | |  
  _ __ _   _  __ _  ___| |_ 
-| '__| | | |/ _` |/ _ \\ __|
+| '__| | | |/ _` |/ _ \ __|
 | |  | |_| | (_| |  __/ |_ 
-|_|   \\__,_|\\__, |\\___|\\__|
+|_|   \__,_|\__, |\___|\__|
              __/ |         
             |___/";
 
